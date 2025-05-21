@@ -5,7 +5,7 @@ Passo a passo:
 https://www.java.com/pt-BR/download/manual.jsp
 - baixe a versão que deseja no link oficial;
 https://www.minecraft.net/pt-br/download/server
-- coloque esse arquivo numa pasta (provavelmente o aqruivo se chama server.jar);
+- coloque esse arquivo numa pasta (provavelmente o arquivo se chama server.jar);
 - execute o arquivo;
 - ao executar deve surgir algumas pastas e aruivos:
 	libraries
